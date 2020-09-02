@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Live website : https://clone-a8ee3.web.app/
+## TeamWork
+## ArushKapoor
+## JatinMehnditra
+
 ## Available Scripts
 
 In the project directory, you can run:
